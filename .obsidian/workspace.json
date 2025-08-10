@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "fa35ca650e783160",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ec963ca93970022",
+        "type": "split",
+        "children": [
+          {
+            "id": "4ad1fec5ef858591",
+            "type": "tabs",
+            "dimension": 85.63218390804597,
+            "children": [
+              {
+                "id": "b8f59a8ed3614d40",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Project Overview/Introduction to Quiet Falls.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Introduction to Quiet Falls"
+                },
+                "group": "d7c6ea68406e6b9c"
+              }
+            ]
+          },
+          {
+            "id": "fdfa25c99b3cef60",
+            "type": "tabs",
+            "dimension": 14.367816091954023,
+            "children": [
+              {
+                "id": "865dfbf0efc5fd7c",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Project Overview/Introduction to Quiet Falls.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Introduction to Quiet Falls"
+                },
+                "group": "d7c6ea68406e6b9c"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78bb98fb6bd1b82d",
+    "type": "split",
+    "children": [
+      {
+        "id": "56adf9d54e2430a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55bdaa173646f164",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d91c10b0c651df2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9b5ac68b87a3783e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "19b06ef65ea2185d",
+    "type": "split",
+    "children": [
+      {
+        "id": "14298f7b5aa8c89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09ae12067bb61278",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for GameManager.cs (Script)"
+            }
+          },
+          {
+            "id": "d9649330380e1f50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from GameManager.cs (Script)"
+            }
+          },
+          {
+            "id": "908d62c95091d82d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d647eed51a033ea3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GameManager.cs (Script)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "55bdaa173646f164",
+  "lastOpenFiles": [
+    "Obsidian Documentation - QuietFalls.bak37216.3452.rartemp",
+    "__rar_37216.3439.rartemp",
+    "People Envolved/Rodrigo Gomes.md",
+    "Project Overview/Introduction to Quiet Falls.md",
+    "Images/Narrator-MainCharacter_InGameCapture.jpg",
+    "Images",
+    "New folder",
+    "Characters/Narrator.md",
+    "Characters",
+    "GameManaging/3 - Methods/GameManager/GameManager.OnGameStart.md",
+    "GameManaging/3 - Methods/GameManager/GameManager.OnEverySceneLoad.md",
+    "GameManaging/1 - Classes/GameManager (Class).md",
+    "GameManaging/2 - Properties/GameManager/GameManager.instance.md",
+    "GameManaging/2 - Properties/GameManager/GameManager.gameManagerList.md",
+    "GameManaging 1.meta",
+    "Scripting API/Scripting API",
+    "Scripting API/2 - Properties",
+    "Scripting API/1 - Classes",
+    "GameManaging",
+    "GameManaging/3 - Methods/GameManager/GameManager.OnGameStart.md.meta",
+    "Author.canvas",
+    "Pasted image 20250808193239.png",
+    "PopulateGameManagerList();.md",
+    "My background in art and coding.md",
+    "Author/Rodrigo Gomes/Pasted image 20250808013743.png",
+    "Rodrigo Gomes.md",
+    "Author/Rodrigo Gomes/My first 3D modeling.canvas",
+    "Author/Author.canvas",
+    "Author/Rodrigo Gomes/Untitled.md",
+    "Author/Rodrigo Gomes/Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Architecture.canvas",
+    "GameManager.cs (Script)/Untitled.md",
+    "GameManaging/1 - Classes/Descriptions/GameManager description.md",
+    "2025-08-08.md",
+    "Welcome.md",
+    "Untitled 2.canvas",
+    "Game Fazendinha.md",
+    "create a link.md",
+    "Initialization Procedure.md"
+  ]
+}
