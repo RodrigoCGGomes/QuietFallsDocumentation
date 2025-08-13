@@ -1,7 +1,7 @@
 ---
 tags:
   - Class
-Asset Type: C# Class
+Asset Type: C# Script
 ---
 ## Description
 This script is contains the initialization procedure of the game. It is responsible for instantiating the GameManager MonoBehaviour (GameObject) in the scene.
@@ -20,3 +20,6 @@ Although derived from MonoBehaviour, this script is neither required nor intende
 | [[GameManager.OnGameStart\|OnGameStart]]           | The very first method called in the game code. Performs initial set ups. |
 | [[GameManager.OnEverySceneLoad\|OnEverySceneLoad]] | This method is called every time a new scene is loaded.                  |
 
+
+## Current Code (Subject to change)
+Link to the #CodeFile : [[GameManager.cs (Code)]]

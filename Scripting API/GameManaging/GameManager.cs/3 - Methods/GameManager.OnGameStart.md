@@ -1,7 +1,6 @@
 ---
 tags:
   - Method
-Asset Type: Private Method
 ---
 
 ```

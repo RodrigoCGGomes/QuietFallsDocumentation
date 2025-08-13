@@ -1,22 +1,65 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#Class  ",
+      "color": {
+        "a": 1,
+        "rgb": 4607
+      }
+    },
+    {
+      "query": "tag:#CodeFile  ",
+      "color": {
+        "a": 1,
+        "rgb": 65531
+      }
+    },
+    {
+      "query": "tag:#Method  ",
+      "color": {
+        "a": 1,
+        "rgb": 7108350
+      }
+    },
+    {
+      "query": "tag:#Property  ",
+      "color": {
+        "a": 1,
+        "rgb": 6076671
+      }
+    },
+    {
+      "query": "tag:#ShaderDocumentation",
+      "color": {
+        "a": 1,
+        "rgb": 16711842
+      }
+    },
+    {
+      "query": "tag: #Manual  ",
+      "color": {
+        "a": 1,
+        "rgb": 16762880
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2.2,
-  "nodeSizeMultiplier": 2.4734375,
-  "lineSizeMultiplier": 1.96302083333333,
+  "textFadeMultiplier": -1.1,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.447916666666667,
-  "repelStrength": 16.9791666666667,
-  "linkStrength": 0.677083333333333,
-  "linkDistance": 204,
-  "scale": 0.3628873693012159,
+  "centerStrength": 0.453125,
+  "repelStrength": 8.95833333333333,
+  "linkStrength": 0.473958333333333,
+  "linkDistance": 30,
+  "scale": 1.2414543899483153,
   "close": false
 }

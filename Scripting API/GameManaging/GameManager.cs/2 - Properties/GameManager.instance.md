@@ -1,7 +1,6 @@
 ---
 tags:
   - Property
-Asset Type: Property
 ---
 ```
 public static GameManager instance;

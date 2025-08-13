@@ -1,7 +1,6 @@
 ---
 tags:
   - Property
-Asset Type: Property
 ---
 ```
 private List<GameManagerBase> gameManagerList;
@@ -21,4 +20,3 @@ public class ExampleClass : MonoBehaviour
 	}
 }
 ```
-

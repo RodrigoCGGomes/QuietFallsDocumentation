@@ -1,1 +1,0 @@
-Narrator refers to the main character entity of the game. This means that all of the files and assets related to the main character are referred as the "Narrator".
