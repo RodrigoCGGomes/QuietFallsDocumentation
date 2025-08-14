@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-- ENTRY POINT/00 - ENTRY POINT.md",
-                "mode": "source",
+                "file": "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - ENTRY POINT"
+              "title": "GameManager (Class Documentation)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "file": "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GameManager.cs (Script)"
+              "title": "Backlinks for GameManager (Class Documentation)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "file": "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GameManager.cs (Script)"
+              "title": "Outgoing links from GameManager (Class Documentation)"
             }
           },
           {
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameManager.cs (Script)/GameManager.cs (Script).md",
+                "file": "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GameManager.cs (Script)"
+              "title": "Outline of GameManager (Class Documentation)"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,51 +166,53 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "840ea1052575884d",
   "lastOpenFiles": [
+    "Shaders/Custom Shaders/QF_MasterShader/1 - Shader Graph/QF_MasterShader (Shader Documentation).md",
+    "00 - ENTRY POINT/ENTRY POINT.md",
+    "Project Overview/Introduction to Quiet Falls.md",
+    "Manual/Game Initialization Procedure.md",
+    "Scripting API/GameManaging/GameManagerBase.cs/2 - Properties/GameManagerBase.isInitialized.md",
+    "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
+    "Shaders/Custom Shaders/QF_DynamicTerrain/1 - Shader Graph/QF_DynamicTerrain (Shader Documentation).md",
+    "Shaders/Custom Shaders/QF_DynamicSky/1 - Shader Graph/QF_DynamicSkybox (Shader Documentation).md",
+    "Manual/Game Architecture Canvas.canvas",
+    "Manual/Getting Started, Custom Shaders.md",
+    "ASSETS/Texture Packs/Quiet Falls Terrain Texture Pack.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts",
     "Media/QF_DynamicSky_Inspector.jpg",
     "Media/QF_MasterShader_PinkFactor_Property.jpg",
     "Media/Narrator-MainCharacter_InGameCapture.jpg",
-    "Shaders/Custom Shaders/QF_MasterShader/1 - Shader Graph/QF_MasterShader (Shader Documentation).md",
     "Project Overview/Characters/Narrator.md",
     "KNOWN ISSUES.md",
-    "ASSETS/Texture Packs/Quiet Falls Terrain Texture Pack.md",
-    "Manual/Game Initialization Procedure.md",
-    "Manual/Getting Started, Custom Shaders.md",
-    "Manual/Game Architecture Canvas.canvas",
     "ASSETS/Texture Packs",
     "ASSETS/02 - Textures.md",
     "ASSETS",
-    "Shaders/Custom Shaders/QF_DynamicTerrain/1 - Shader Graph/QF_DynamicTerrain (Shader Documentation).md",
-    "Shaders/Custom Shaders/QF_DynamicTerrain/1 - Shader Graph/Untitled.md",
     "Shaders/Custom Shaders/QF_DynamicTerrain/1 - Shader Graph",
-    "-- ENTRY POINT/00 - ENTRY POINT.md",
     "Shaders/Custom Shaders/QF_DynamicTerrain",
-    "-- ENTRY POINT",
-    "Shaders/Custom Shaders/QF_DynamicSky/1 - Shader Graph/QF_DynamicSkybox (Shader Documentation).md",
-    "Project Overview/Introduction to Quiet Falls.md",
-    "Test.md",
-    "Scripting API/GameManaging/GameManager.cs/1 - Class/GameManager (Class Documentation).md",
-    "Scripting API/GameManaging/GameManager.cs/2 - Properties/GameManager.gameManagerList.md",
-    "Scripting API/GameManaging/GameManager.cs/2 - Properties/GameManager.instance.md",
+    "00 - ENTRY POINT",
     "Shaders/Custom Shaders/QF_DynamicSky/1 - Shader Graph",
     "Shaders/Custom Shaders/QF_DynamicSky",
-    "Project Overview/People Envolved/Rodrigo Gomes.md",
-    "Manual/Philosophical approach to the game architecture.md",
-    "Scripting API/GameManaging/GameManagerBase.cs/2 - Properties/GameManagerBase.isInitialized.md",
-    "Scripting API/GameManaging/GameManagerBase.cs/1 - Class/GameManagerBase (Class Documentation).md",
-    "Scripting API/GameManaging/GameManager.cs/4 - Code/GameManager.cs (Code).md",
-    "Scripting API/GameManaging/GameManagerBase.cs/4 - Code/GameManagerBase.cs (Code).md",
     "Scripting API/GameManaging/GameManagerBase.cs/2 - Properties",
-    "Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnGameStart.md",
-    "Scripting API/GameManaging/GameManager.cs/3 - Methods/GameManager.OnEverySceneLoad.md",
-    "Shaders/Custom Shaders/QF_MasterShader/2 - Properties/Pink Factor.md",
     "Pasted image 20250812043155.png",
     "Shaders/Custom Shaders/QF_MasterShader/2 - Properties",
-    "Shaders/Custom Shaders/QF_MasterShader/1 - Shader Graph",
     "Untitled.canvas",
     "Author.canvas",
     "Pasted image 20250808193239.png",

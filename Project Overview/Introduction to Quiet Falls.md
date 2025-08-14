@@ -1,3 +1,7 @@
+---
+tags:
+  - Manual
+---
 *Quiet Falls* is a cozy farming/life simulator currently being developed by solo developer [[Rodrigo Gomes]]
 
 ## Art style and look
